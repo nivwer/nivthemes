@@ -1,0 +1,30 @@
+{
+  "name": "nivthemes",
+  "displayName": "nivthemes",
+  "description": "",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.85.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "raven",
+        "uiTheme": "vs-dark",
+        "path": "./themes/raven-color-theme.json"
+      }
+    ]
+  },
+  "author": {
+    "name": "nivwer"
+  },
+  "repository": {
+    "url": "https://github.com/nivwer/nivthemes.git",
+    "type": "git"
+  },
+  "publisher": "nivwer"
+  
+}
